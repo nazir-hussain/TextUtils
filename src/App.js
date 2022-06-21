@@ -1,5 +1,4 @@
 import React from 'react';
-// import Prahlad from './Prahlad.js';
 import Navbar from './components/Navbar';
 import TextForms from './components/TextForms';
 import './App.css';
